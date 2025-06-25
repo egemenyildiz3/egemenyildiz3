@@ -1,4 +1,4 @@
-# Egemen Yıldız
+# Egemen Yildiz
 
 - 💼 Software Developer at Just Eat Takeaway.com  
 - 🎓 Computer Science & Engineering graduate, TU Delft  
