@@ -6,13 +6,13 @@
   <code><img title="" height="25" src="/images/tkwy.svg"></code>
   Software Developer at Just Eat Takeaway.com
     <br>
-    <code><img title="" height="25" src="/images/tux.svg"></code>
+    <code><img title="" height="25" src="/images/grad.svg"></code>
 Computer Science & Engineering graduate, TU Delft
   <br>
   <code><img title="" height="25" src="/images/nl.svg"></code>
 Netherlands
   <br>
-    <code><img title="" height="25" src="/images/email.svg"></code>
+    <code><img title="" height="25" src="/images/emails.svg"></code>
 egemenyildiz03@gmail.com
   <br>
 </p>
