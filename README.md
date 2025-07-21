@@ -23,7 +23,7 @@
         <img src="/images/nl.svg" height="25"/>
       </td>
       <td>
-        Netherlands
+        The Netherlands
       </td>
     </tr>
     <tr>
