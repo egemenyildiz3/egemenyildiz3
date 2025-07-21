@@ -15,7 +15,7 @@
         <img src="/images/grad.svg" height="25"/>
       </td>
       <td>
-        Computer Science & Engineering graduate, TU Delft
+        Computer Science & Engineering graduate from TU Delft
       </td>
     </tr>
     <tr>
