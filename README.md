@@ -6,7 +6,7 @@
   <code><img title="" height="25" src="/images/tkwy.svg"></code>
   Software Developer at Just Eat Takeaway.com
     <br>
-    <code><img title="" height="25" src="/images/tu.svg"></code>
+    <code><img title="" height="25" src="/images/tux.svg"></code>
 Computer Science & Engineering graduate, TU Delft
   <br>
   <code><img title="" height="25" src="/images/nl.svg"></code>
