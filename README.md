@@ -46,7 +46,7 @@
   <code><img title="Java" height="25" src="/images/java-original.svg"></code>
    <code><img title="Python" height="25" src="/images/python.svg"></code>
    <code><img title="Django" height="25" src="/images/django.png"></code>
-  <code><img title="React" height="25" src="/images/react-original.png"></code>
+  <code><img title="React" height="25" src="/images/react-original.svg"></code>
   <code><img title="Git" height="25" src="/images/git-original.svg"></code>
  
 </p>
