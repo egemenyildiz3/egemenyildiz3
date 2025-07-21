@@ -2,19 +2,17 @@
 </h5>
 
 <p align="center">
-  <br>
-  <code><img title="" height="25" src="/images/tkwy.svg"></code>
+  <img title="Just Eat Takeaway.com" height="25" src="/images/tkwy.svg" style="vertical-align:middle;">
   Software Developer at Just Eat Takeaway.com
-    <br>
-    <code><img title="" height="25" src="/images/grad.svg"></code>
-Computer Science & Engineering graduate, TU Delft
   <br>
-  <code><img title="" height="25" src="/images/nl.svg"></code>
-Netherlands
+  <img title="Graduate" height="25" src="/images/grad.svg" style="vertical-align:middle;">
+  Computer Science & Engineering graduate, TU Delft
   <br>
-    <code><img title="" height="25" src="/images/emails.svg"></code>
-egemenyildiz03@gmail.com
+  <img title="Netherlands" height="25" src="/images/nl.svg" style="vertical-align:middle;">
+  Netherlands
   <br>
+  <img title="Email" height="25" src="/images/emails.svg" style="vertical-align:middle;">
+  egemenyildiz03@gmail.com
 </p>
 
 <hr>
