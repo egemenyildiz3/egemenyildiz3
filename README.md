@@ -1,40 +1,40 @@
-<h3 align="center">Hi, I am Egemen!</h3>
+<h1 align="center">Hi, I am Egemen!</h3>
 </h5>
 
-<table align="center">
-  <tr>
-    <td align="center" valign="middle">
-      <img src="/images/tkwy.svg" height="25"/>
-    </td>
-    <td>
-      Software Developer at Just Eat Takeaway.com
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle">
-      <img src="/images/grad.svg" height="25"/>
-    </td>
-    <td>
-      Computer Science & Engineering graduate, TU Delft
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle">
-      <img src="/images/nl.svg" height="25"/>
-    </td>
-    <td>
-      Netherlands
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle">
-      <img src="/images/emails.svg" height="25"/>
-    </td>
-    <td>
-      egemenyildiz03@gmail.com
-    </td>
-  </tr>
-</table>
+  <table align="center">
+    <tr>
+      <td align="center" valign="middle">
+        <img src="/images/tkwy.svg" height="25"/>
+      </td>
+      <td>
+        Software Developer at Just Eat Takeaway.com
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <img src="/images/grad.svg" height="25"/>
+      </td>
+      <td>
+        Computer Science & Engineering graduate, TU Delft
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <img src="/images/nl.svg" height="25"/>
+      </td>
+      <td>
+        Netherlands
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <img src="/images/emails.svg" height="25"/>
+      </td>
+      <td>
+        egemenyildiz03@gmail.com
+      </td>
+    </tr>
+  </table>
 
 <hr>
 
