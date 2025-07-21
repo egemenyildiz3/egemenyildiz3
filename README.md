@@ -1,19 +1,40 @@
 <h3 align="center">Hi, I am Egemen!</h3>
 </h5>
 
-<p align="center">
-  <img title="Just Eat Takeaway.com" height="25" src="/images/tkwy.svg" style="vertical-align:middle;">
-  Software Developer at Just Eat Takeaway.com
-  <br>
-  <img title="Graduate" height="25" src="/images/grad.svg" style="vertical-align:middle;">
-  Computer Science & Engineering graduate, TU Delft
-  <br>
-  <img title="Netherlands" height="25" src="/images/nl.svg" style="vertical-align:middle;">
-  Netherlands
-  <br>
-  <img title="Email" height="25" src="/images/emails.svg" style="vertical-align:middle;">
-  egemenyildiz03@gmail.com
-</p>
+<table align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <img src="/images/tkwy.svg" height="25"/>
+    </td>
+    <td>
+      Software Developer at Just Eat Takeaway.com
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="/images/grad.svg" height="25"/>
+    </td>
+    <td>
+      Computer Science & Engineering graduate, TU Delft
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="/images/nl.svg" height="25"/>
+    </td>
+    <td>
+      Netherlands
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="/images/emails.svg" height="25"/>
+    </td>
+    <td>
+      egemenyildiz03@gmail.com
+    </td>
+  </tr>
+</table>
 
 <hr>
 
