@@ -50,6 +50,4 @@
   <code><img title="Git" height="25" src="/images/git-original.svg"></code>
  
 </p>
-
-<hr>
 <hr>
